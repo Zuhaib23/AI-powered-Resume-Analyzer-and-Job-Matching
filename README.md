@@ -14,7 +14,7 @@ A sophisticated AI-powered application that analyzes resumes, extracts key skill
 - 💼 Live job matching using external APIs
 - 📝 Auto-generated professional summaries
 - 💡 Career guidance based on extracted insights
-- 🖥️ Clean and intuitive UI (Tkinter/Streamlit)
+- 🖥️ Clean and intuitive GUI
 
 ## 📷 Screenshots
 
