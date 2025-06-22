@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Model files
+models/
+*.joblib
+
+# Screenshots
+screenshots/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+build/
+dist/
+*.egg-info/
